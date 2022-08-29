@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my final year project called epastpapers.
-- 🌱 I’m currently learning Java, javascript
+- 🔭 I’m currently working on Web Scraping websites with python 
+- 🌱 I’m currently learning javascript, Python, PowerBI
 - 📫 How to reach me: maich231@gmail.com
 - ⚡ Fun fact: Always have a successful conscious mind.
 
