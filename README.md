@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web Scraping the NSE website with python 3.10
-- 🌱 I’m currently learning javascript, Python, PowerBI, React JS
+- 🔭 I’m currently working on Yii PHP project
+- 🌱 I’m currently learning PHP and Yii Framework, Microsoft Dynamics 365
 - 📫 How to reach me: maich231@gmail.com
 - ⚡ Fun fact: Always have a successful conscious mind.
 
