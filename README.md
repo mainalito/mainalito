@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Yii PHP project
-- 🌱 I’m currently learning PHP and Yii Framework, Microsoft Dynamics 365
+- 🔭 My technologies are React, Spring boot, Next JS
+- 🌱 I’m currently learning PHP and Yii Framework, Microsoft Dynamics 365, Laravel
 - 📫 How to reach me: maich231@gmail.com
 - ⚡ Fun fact: Always have a successful conscious mind.
 
